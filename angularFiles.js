@@ -1,3 +1,4 @@
+/* include files */
 angularFiles = {
   'angularSrc': [
     'src/Angular.js',
